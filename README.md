@@ -5,10 +5,10 @@ I work at the intersection of product, UX content design, and technical writing 
 I've worked across healthcare, nuclear energy, and financial services —highly regulated industries where accuracy, compliance, and plain language matter most—translating dense technical and regulatory information for technical and non-technical audiences alike. I bring a specialty in documenting AI systems: their capabilities, boundaries, and human-handoff logic.
 
 
-### 🛠️ What I work with
+### What I work with
 Docs-as-code (Git, Markdown, Docusaurus) · API documentation (OpenAPI, JSON) · Content & information architecture · Design-system documentation · Figma · ServiceNow · DatoCMS · SQL · Generative AI (Claude, ChatGPT, Copilot)
 
-### 📫 Reach me
+### Reach me
  [summer.ini.williams@gmail.com] 
  
 <!--
